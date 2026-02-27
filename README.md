@@ -1,6 +1,4 @@
-# Analysis-of-Customer-Shopping-Behaviour_Dashboard
-
-# Customer Shopping Behaviour Analysis (SQL & Power BI)
+# Customer Shopping Behaviour Analysis (Python, SQL & Power BI)
 
 ## Overview
 - This project analyzes customer shopping behaviour using transactional data to understand spending patterns, subscription impact, product performance, and           customer demographics.
